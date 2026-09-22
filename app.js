@@ -36,4 +36,14 @@ function multiplicar(a, b) {
 const resultado3 = multiplicar(4, 6);
 console.log("El resultado de la multiplicación es: " + resultado3);
 
+function dividir(a, b) {
+    if (b === 0) {
+        console.log("Error: No se puede dividir por cero.");
+        return null;
+    }
+    return a / b;
+}
+
+const resultado4 = dividir(10, 2);
+
 console.log("Fin del programa master.");
