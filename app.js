@@ -28,3 +28,5 @@ function sumar(a, b){
 
 const resultado2 = sumar(5, 3);
 console.log("El resultado de la suma es: " + resultado2);
+
+console.log("Fin del programa.");
