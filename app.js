@@ -16,9 +16,18 @@ function despedir(nombre) {
 
 despedir("Juan");
 
+<<<<<<< HEAD
 function restar(a, b) {
     return a - b;
 }
 
 const resultado = restar(10, 5);
 console.log("Resultado de la resta: " + resultado);
+=======
+function sumar(a, b){
+    return a + b;
+}
+
+const resultado = sumar(5, 3);
+console.log("El resultado de la suma es: " + resultado);
+>>>>>>> feature-despedida
