@@ -9,3 +9,9 @@ function saludar(nombre) {
 }
 
 saludar("Juan");
+
+function despedir(nombre) {
+    console.log("Adiós " + nombre);
+}
+
+despedir("Juan");
