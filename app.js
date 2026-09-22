@@ -15,3 +15,10 @@ function despedir(nombre) {
 }
 
 despedir("Juan");
+
+function restar(a, b) {
+    return a - b;
+}
+
+const resultado = restar(10, 5);
+console.log("Resultado de la resta: " + resultado);
