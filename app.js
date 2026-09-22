@@ -29,4 +29,11 @@ function sumar(a, b){
 const resultado2 = sumar(5, 3);
 console.log("El resultado de la suma es: " + resultado2);
 
+function multiplicar(a, b) {
+    return a * b;
+}
+
+const resultado3 = multiplicar(4, 6);
+console.log("El resultado de la multiplicación es: " + resultado3);
+
 console.log("Fin del programa master.");
