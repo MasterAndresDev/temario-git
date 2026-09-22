@@ -1,0 +1,1 @@
+console.lotg("Hello, World!");
