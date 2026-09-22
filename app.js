@@ -1,1 +1,2 @@
-console.lotg("Hello, World!");
+console.log("Hello, World!");
+console.log("This is a sample application.");
