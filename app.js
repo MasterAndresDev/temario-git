@@ -46,6 +46,9 @@ function dividir(a, b) {
 
 const resultado4 = dividir(10, 2);
 
+console.log("El resultado de la división es: " + resultado4);
+
+
 function potencia(base, exponente) {
     return Math.pow(base, exponente);
 }
